@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.zhengken:LyricViewDemo-v1.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/8af0587465da07afd11df571e4b5b1e6ba57228a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8af0587465da07afd11df571e4b5b1e6ba57228a/output/jars/libs/juniversalchardet-1.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8af0587465da07afd11df571e4b5b1e6ba57228a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

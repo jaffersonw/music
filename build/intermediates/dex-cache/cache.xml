@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\56779f9187a12260f5b9e8fb90acf01ee2eee5af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2785744a530f53d588648898308d1892b060e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_bb166ced9fd4c1747fe9afbf72843fc3ead21d7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\7784820eb7f543b4df502d9ad1f28d8889953f90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_92b944e78b86bea9776414f71fbc92c5f43f1a4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\611137df1c33e8bacf659a2da53abbc594577c94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f628bc0ba9713ab3fdcac9b5498aca640fe9535">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_644ce4d760d1fe37e366f9bd5ad973550a9ab058\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\60c960b0c75647d0ce35594b7293d43f378a6e2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0d71f3633a8adc143072c2d1612229690a3bedab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\259b0681dfd83a922f45ff7b2553ae6b4723de5a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bee0d70eae0135f3d65da315f5c69cb573da54f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicPlayer-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d7ca0543904393e2b56eca82ee38ca79a82019f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\8af0587465da07afd11df571e4b5b1e6ba57228a\output\jars\libs\juniversalchardet-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="87675a9ecd5304c687d86ce2ed20616f189823ad">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\juniversalchardet-1.0.3_86f0f1707665b79dfcc47a44a70dab11dc1b5abe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\984705260553b3f8d60d2dc9cf21cfeecff14612\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_910838946cbb6fb745f0de27f5ed8cf4d0b94566\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.gradle\caches\modules-2\files-2.1\com.belerweb\pinyin4j\2.5.0\5a620aedec0f779f2123ba60fd4b74bfbd3e2646\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a620aedec0f779f2123ba60fd4b74bfbd3e2646">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\pinyin4j-2.5.0_9556e6d5d74906f3bb3e29ceb0b93caf1ccb0a3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\36b72197bbdd62206ae25c417ab9504dde069de0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb2c96ecf8668431a944fdc7a4ae7bc12eba6d30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\360d916b0349d62f8b71858a29794b491c449b3e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99bb2b1f37ff586a07c0c32febd30afcf4b3c81d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\21ea256eb5a540ce9764f16bd782811a216514f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80501c7d16b2fb6c83c0a40eb8a6420cf621de75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\8af0587465da07afd11df571e4b5b1e6ba57228a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2c4ff2002ad7cf17d6b4ed9eefbf0bf84d98650">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8eb0a16251cbf9be96784f92a45c7d80d810ee5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\e0afcf6dc6822779abe63b968600bddbf792a589\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7bd5191d144271f64796d876c980824043b9c45f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\MusicPlayer-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45cfdf4179b5b08c379fcdf2a2370a4d289d61a3">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e3586b25aa03f367d259e8cb8336a0674d657d56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\xyxy001\.android\build-cache\2e1f23141bec97c4cf16c6bb8285745fae0f0945\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24468f9b91d3e38c08e17a7b3f343ae29fa13e46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\MusicPlayer-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_3563cfbb918cf9b5680ba5f15dd9e3432138ba50\classes.dex" />
+    </item>
+
+</items>
